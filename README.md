@@ -1,3 +1,2 @@
 # demo-repo
-# hi this is not a normal feet
- 
+# hi this is normal feet
